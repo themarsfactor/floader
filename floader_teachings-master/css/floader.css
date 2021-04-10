@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.container{
+	width: 100%;
+}
+
+main{
+	width: 50%;
+	background: skyblue;
+	margin: auto;
+	padding: 2em;
+}
+
+.floader_form{
+
+}
+
+#floader_id{
+
+	display: none;
+
+}
+
+.floader_form label{
+	background-color: lightgreen;
+	padding: .5em;
+	box-shadow: .1em .1em;
+	display: inline-block;
+}
+
+.floader_img_preview{
+
+		height: 300px;
+		width: 300px;
+		border: 1px solid black;
+
+}
